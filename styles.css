@@ -1,0 +1,29 @@
+.attributesOfImages {
+    width: 17%;
+    margin-left: 1%;
+    margin-bottom: 1%;}
+
+.my-button {
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        color: white;
+        background: #e23125;
+        box-shadow: 0 5px 0 #661105;
+        margin-bottom: 2%;
+        width: 10em;
+        height: 3em;
+    }
+    
+.my-button:hover {
+        background: #e23125;
+        box-shadow: none;
+        position: relative;
+        top: 5px;
+    }
+
+.body {
+    background-color: aquamarine;
+    text-align: center;}
+
+.header {color: #383232;}
